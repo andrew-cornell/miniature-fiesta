@@ -74,3 +74,4 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 BuildingEscape/Content/StarterContent/Materials/M_Ground_Moss.uasset
 BuildingEscape/Content/StarterContent/
+BuildingEscape/cmake-build-debug/
