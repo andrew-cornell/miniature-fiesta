@@ -1,0 +1,15 @@
+D:/game dev/BuildingEscape/cmake-build-debug/CMakeFiles/BuildingEscapeEditor-Win64-Shipping.dir
+D:/game dev/BuildingEscape/cmake-build-debug/CMakeFiles/UE4Game.dir
+D:/game dev/BuildingEscape/cmake-build-debug/CMakeFiles/BuildingEscape-Win64-DebugGame.dir
+D:/game dev/BuildingEscape/cmake-build-debug/CMakeFiles/UE4Editor.dir
+D:/game dev/BuildingEscape/cmake-build-debug/CMakeFiles/BuildingEscape-Win64-Shipping.dir
+D:/game dev/BuildingEscape/cmake-build-debug/CMakeFiles/UE4Editor-Win64-Shipping.dir
+D:/game dev/BuildingEscape/cmake-build-debug/CMakeFiles/BuildingEscape.dir
+D:/game dev/BuildingEscape/cmake-build-debug/CMakeFiles/BuildingEscapeEditor-Win64-DebugGame.dir
+D:/game dev/BuildingEscape/cmake-build-debug/CMakeFiles/BuildingEscapeEditor.dir
+D:/game dev/BuildingEscape/cmake-build-debug/CMakeFiles/UE4Editor-Win64-DebugGame.dir
+D:/game dev/BuildingEscape/cmake-build-debug/CMakeFiles/UE4Game-Win64-DebugGame.dir
+D:/game dev/BuildingEscape/cmake-build-debug/CMakeFiles/UE4Game-Win64-Shipping.dir
+D:/game dev/BuildingEscape/cmake-build-debug/CMakeFiles/FakeTarget.dir
+D:/game dev/BuildingEscape/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/game dev/BuildingEscape/cmake-build-debug/CMakeFiles/rebuild_cache.dir
